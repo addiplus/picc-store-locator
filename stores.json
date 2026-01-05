@@ -1,0 +1,1554 @@
+{
+  "generated": "2026-01-05T20:08:12.611Z",
+  "count": 172,
+  "stores": [
+    {
+      "id": "040c80a5-2c68-4bae-8dbd-5eed5652fefa",
+      "name": "BX Buddiez",
+      "address": "2935 Third Ave, South Bronx, NYC, Bronx",
+      "lat": 40.8177,
+      "lng": -73.91562,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8100-9718-db39b6c6aec5",
+      "name": "KushKlub NY LLC",
+      "address": "186 Orchard St, New York, NY 10002, New York",
+      "lat": 40.72198,
+      "lng": -73.98815,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8104-a2fb-dac38c95add5",
+      "name": "Mr Good Vybz",
+      "address": "25 N. Pearl Street NY, 12207, Albany",
+      "lat": 42.65039,
+      "lng": -73.75201,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8107-85ee-e362e0ac2c29",
+      "name": "Kushmart - Brooklyn",
+      "address": "1413 Kings Highway NY, 11229, Brooklyn",
+      "lat": 40.60871,
+      "lng": -73.95871,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8107-9890-c3b2ba840f6c",
+      "name": "The Cannabis Reserve",
+      "address": "1307 North Ave NY, 10804, New Rochelle",
+      "lat": 40.9465,
+      "lng": -73.79545,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-810b-a47e-d8166af9a0c3",
+      "name": "Ripe Cannabis",
+      "address": "245 Broadway NY, 12305, Schenectady",
+      "lat": 42.81109,
+      "lng": -73.94384,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-810c-a566-e14ef601b160",
+      "name": "Diamond Tree Dispensary",
+      "address": "2700 Erie Blvd E NY, 13224, Syracuse",
+      "lat": 43.05398,
+      "lng": -76.0979,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-810e-b9fa-ff104ffcdcdf",
+      "name": "Tree Head Culture",
+      "address": "665 North French Road NY, 14228, Amherst",
+      "lat": 43.03432,
+      "lng": -78.80005,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-810f-8557-fa32efa55284",
+      "name": "Rise - Halfmoon",
+      "address": "1675 US-9 NY, 12065, Clifton Park",
+      "lat": 42.86031,
+      "lng": -73.76461,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-810f-b3ec-dd4ebd56ca2c",
+      "name": "Dazed - New York",
+      "address": "33 Union Square W, New York, NY 10003, New York",
+      "lat": 40.73687,
+      "lng": -73.99093,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8110-a209-ec0f9ef0ea9c",
+      "name": "Nuna Harvest LLC",
+      "address": "696 Locust St NY, 10552, Mount Vernon",
+      "lat": 40.92653,
+      "lng": -73.8393,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8115-981a-f6bbb71c5e93",
+      "name": "The Travel Agency - Union Square",
+      "address": "835 Broadway NY, 10003, New York",
+      "lat": 40.73392,
+      "lng": -73.99112,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8116-9e8c-dd0cee0970e6",
+      "name": "Nice Yield",
+      "address": "10-50 Jackson Ave NY, 11101, Long Island City",
+      "lat": 40.7422,
+      "lng": -73.95265,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8118-a0f7-e99a42ee07fa",
+      "name": "Verdi - Park Slope",
+      "address": "360 Seventh Ave NY, 11215, Brooklyn",
+      "lat": 40.66603,
+      "lng": -73.98248,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-811a-b5a0-d696d1946093",
+      "name": "QUBE",
+      "address": "1412 Broadway NY, 10018, New York",
+      "lat": 40.75373,
+      "lng": -73.98685,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-811b-aa1d-cc1707c560ee",
+      "name": "The Phinest Buds",
+      "address": "576 Dick Road Suite 10 NY, 14043, Depew",
+      "lat": 42.91754,
+      "lng": -78.7381,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-811c-82fe-f11521f1fa7d",
+      "name": "Happy Munkey - Manhattan",
+      "address": "151 Dyckman Street Store 3 NY, 10040, New York",
+      "lat": 40.86334,
+      "lng": -73.92563,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-811d-85e8-e8a4683b3bb9",
+      "name": "Beleaf - Brooklyn",
+      "address": "1077 Atlantic Avenue NY, 11238, Brooklyn",
+      "lat": 40.67946,
+      "lng": -73.9556,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-811d-8962-dc2427a90577",
+      "name": "The Travel Agency - SoHo",
+      "address": "598 Broadway NY, 10012, New York",
+      "lat": 40.7251,
+      "lng": -73.99688,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8120-9da5-f9fa4166b633",
+      "name": "BK Exotic",
+      "address": "1056 Flatbush Ave NY, 11226, Brooklyn",
+      "lat": 40.64523,
+      "lng": -73.9582,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8121-a096-fe6b2b21d788",
+      "name": "ConBud - New York LES",
+      "address": "85 Delancey st, New York, New York 10002, United States, New York",
+      "lat": 40.71875,
+      "lng": -73.98964,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8122-8f15-d8b2181f1015",
+      "name": "Culture House",
+      "address": "958 Sixth Avenue NY, 10001, New York",
+      "lat": 40.7503,
+      "lng": -73.9872,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8123-8453-c89ad302ebd1",
+      "name": "Munchies Dispensary",
+      "address": "8701 Rockaway Beach Blvd., Rockaway Park, NY, 11694, Rockaway Park",
+      "lat": 40.57969,
+      "lng": -73.838,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8123-b8db-ff5b29394ebb",
+      "name": "Gotham - Williamsburg",
+      "address": "296 Kent Ave, Brooklyn, NY 11249, Brooklyn",
+      "lat": 40.71447,
+      "lng": -73.96705,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8127-b74f-ca6431793650",
+      "name": "The Travel Agency - Brooklyn",
+      "address": "118 Flatbush Ave NY, 11217, Brooklyn",
+      "lat": 40.68513,
+      "lng": -73.97847,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8129-b1b0-f86254ba419c",
+      "name": "The Alchemy",
+      "address": "302 8th Ave NY, 10001, New York",
+      "lat": 40.74668,
+      "lng": -73.99726,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-812a-80fd-f7fab2cfe709",
+      "name": "Herbal IQ",
+      "address": "6300 Transit Road NY, 14043, Depew",
+      "lat": 42.92719,
+      "lng": -78.69753,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-812a-9903-c418f9fdb19b",
+      "name": "Flynnstoned - Staten Island",
+      "address": "755 Forest Ave NY, 10310, Staten Island",
+      "lat": 40.62927,
+      "lng": -74.11434,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-812c-a382-dbcbd8a0e388",
+      "name": "Devil's Lettuce, LLC",
+      "address": "650 Orchard Park Road NY, 14224, West Seneca",
+      "lat": 42.83097,
+      "lng": -78.77637,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-812e-8774-d573050e48c1",
+      "name": "Silk Road NYC",
+      "address": "16630 Jamaica Ave NY, 11432, Jamaica",
+      "lat": 40.70606,
+      "lng": -73.793,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8130-a86f-d294a98d333b",
+      "name": "Cannabis Huts - Poughkeepsie",
+      "address": "4-10 Taft Ave NY, 12603, Poughkeepsie",
+      "lat": 41.69605,
+      "lng": -73.89607,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8131-8245-fe94a12c0bcf",
+      "name": "GreenCup",
+      "address": "9538 Queens Blvd NY, 11374, Rego Park",
+      "lat": 40.73017,
+      "lng": -73.86338,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8131-a7cd-db1811cb7194",
+      "name": "FlynnStoned - North Syracuse",
+      "address": "3711 Brewerton Rd Ste 8-10 NY, 13212, North Syracuse",
+      "lat": 43.11721,
+      "lng": -76.1468,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8132-9bf6-d6c60005a169",
+      "name": "Stoops NYC",
+      "address": "182 5th Avenue NY, 10010, New York",
+      "lat": 40.7413,
+      "lng": -73.98998,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8137-8e1d-dcabd9a44a2d",
+      "name": "Long Island Cannabis Club",
+      "address": "94 East Industry Court NY, 11729, Deer Park",
+      "lat": 40.76297,
+      "lng": -73.29729,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8138-9cf1-dbf75d0e867d",
+      "name": "Flowery Bronx",
+      "address": "3551 Boston Rd NY, 10469, Bronx",
+      "lat": 40.87822,
+      "lng": -73.8447,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8139-81a2-da3c68e35757",
+      "name": "Gotham - Chelsea",
+      "address": "146 10th Avenue NY, 10011, New York",
+      "lat": 40.74526,
+      "lng": -74.00572,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8139-8580-e1d486d86f06",
+      "name": "Enflor",
+      "address": "3264 85th street NY, 11370, East Elmhurst",
+      "lat": 40.75619,
+      "lng": -73.88289,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8139-8a29-fbc0552b5c9e",
+      "name": "Canna Buddha",
+      "address": "215-46 39th Ave NY, 11361, Bayside",
+      "lat": 40.76589,
+      "lng": -73.76737,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-813a-ba92-fe4dc7bef7fa",
+      "name": "NY Cannabis Co - 5th Ave",
+      "address": "381 5th Ave NY, 10016, New York",
+      "lat": 40.74937,
+      "lng": -73.98366,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-813b-bc36-cdc53a0c2422",
+      "name": "The Plant",
+      "address": "2595 Central Park Ave NY, 10710, Yonkers",
+      "lat": 40.98541,
+      "lng": -73.82638,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-813f-9bf9-dc1fc919f6d5",
+      "name": "Leafology Cannabis Company",
+      "address": "244 Main Street NY, 10601, White Plains",
+      "lat": 41.03311,
+      "lng": -73.76454,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8141-bfbc-ca8ca3ef662d",
+      "name": "Happy Munkey - Brooklyn",
+      "address": "453 Fulton Street NY, 11201, Brooklyn",
+      "lat": 40.69144,
+      "lng": -73.98696,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8144-988c-ebccf7883689",
+      "name": "Flynnstoned - Rochester",
+      "address": "125 State Street NY, 14614, Rochester",
+      "lat": 43.15763,
+      "lng": -77.61477,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8145-ad48-eedb51041569",
+      "name": "Flynnstoned - Baytowne",
+      "address": "1900 Empire Blvd. Suite 190 NY, 14580, Webster",
+      "lat": 43.19116,
+      "lng": -77.50199,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8147-9e1a-e8909358a4c4",
+      "name": "The Flowery - Upper West Side",
+      "address": "2465 Broadway NY, 10025, New York",
+      "lat": 40.79189,
+      "lng": -73.97414,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8149-b1d2-ec68ee663976",
+      "name": "Madame Jane Dispensary",
+      "address": "102 State Street NY, 12305, Schenectady",
+      "lat": 42.81507,
+      "lng": -73.94726,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-814a-855f-c73fcd2fe3c1",
+      "name": "Valley Greens LTD",
+      "address": "939 Central Avenue NY, 10566, Peekskill",
+      "lat": 41.29043,
+      "lng": -73.92068,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-814a-9d08-f67236b96459",
+      "name": "Yeti Canna",
+      "address": "1385 Abbott Rd NY, 14218, Lackawanna",
+      "lat": 42.82702,
+      "lng": -78.80425,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-814e-a6ca-c1ec83396c6c",
+      "name": "ConBud BX",
+      "address": "2412 Third Ave, Bronx, NY 10454, New York",
+      "lat": 40.8083,
+      "lng": -73.9305,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-814f-81f2-c0cb7c44e695",
+      "name": "Stage One Dispensary",
+      "address": "810 Broadway NY, 12144, Rensselaer",
+      "lat": 40.73258,
+      "lng": -73.99109,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-814f-b5f2-d14ce6178a65",
+      "name": "THTree",
+      "address": "12187 US-9W NY, 12192, West Coxsackie",
+      "lat": 42.37545,
+      "lng": -73.83163,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8151-b0dd-e590a6ce2eb9",
+      "name": "Flynnstoned - Oswego",
+      "address": "143 George St. NY, 13126, Oswego",
+      "lat": 43.46286,
+      "lng": -76.48479,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8151-b283-e135c4872dd0",
+      "name": "Terp Bros - Astoria",
+      "address": "36-10 Ditmars Blvd NY, 11105, Queens",
+      "lat": 40.77394,
+      "lng": -73.90805,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8155-aa3b-e806d75e9f10",
+      "name": "Farmers Choice Dispensary",
+      "address": "18 Westage Dr Ste 7 NY, 12524, Fishkill",
+      "lat": 41.52751,
+      "lng": -73.89409,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8159-af98-cf8112f78670",
+      "name": "Aroma Farms",
+      "address": "209-17 Northern Blvd NY, 11361, Bayside",
+      "lat": 40.75929,
+      "lng": -73.77404,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8159-b582-dd20ce9e12ce",
+      "name": "Strains for Life",
+      "address": "3543 Broadway #3547 NY, 10031, New York",
+      "lat": 40.82668,
+      "lng": -73.9506,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-815a-bee8-c0c6068c548f",
+      "name": "Misha's Flower Shop",
+      "address": "299 Knickerbocker Ave NY, 11237, Brooklyn",
+      "lat": 40.73701871152351,
+      "lng": -73.97290340677144,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-815b-8d47-e32ab2b17310",
+      "name": "Elevation Headquarters",
+      "address": "701 8th Avenue NY, 10036, New York",
+      "lat": 40.75887,
+      "lng": -73.98884,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-815b-b9c3-d96166d66556",
+      "name": "Smoking Scholars LLC",
+      "address": "784 Allerton Avenue NY, 10467, Bronx",
+      "lat": 40.86535,
+      "lng": -73.86413,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-815c-b634-d0274a03e3d8",
+      "name": "The Flowery - Soho",
+      "address": "481 Broadway NY, 10013, New York",
+      "lat": 40.72156,
+      "lng": -74.00024,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-815e-8829-c505aa1de17c",
+      "name": "Flynnstoned - Chelsea",
+      "address": "206 8th Ave NY, 10011, New York",
+      "lat": 40.74367,
+      "lng": -73.99946,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-815e-a32d-e52d24b07ea7",
+      "name": "Transcend Wellness",
+      "address": "289 Oakwood Ave Ste D NY, 12182, Troy",
+      "lat": 42.77857,
+      "lng": -73.65653,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-815e-a8d7-e4e0ff261444",
+      "name": "Bleu Leaf Dispensary Inc. ",
+      "address": "2034 Jerome Avenue NY, 10453, Bronx",
+      "lat": 40.85338,
+      "lng": -73.90753,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-815f-b5e9-d01186115409",
+      "name": "Catskill Mountain High",
+      "address": "308 Plaza Road NY, 12401, Kingston",
+      "lat": 41.9373,
+      "lng": -74.01924,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8161-803c-c33c8fc5b778",
+      "name": "County Road Cannabis",
+      "address": "1326 County Rd 12 NY, 10958, New Hampton",
+      "lat": 41.38418,
+      "lng": -74.42312,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8161-81b1-e33784a51b7d",
+      "name": " Happy Goat Dispensary",
+      "address": "1330 Mt Hope Ave NY, 14620, Rochester",
+      "lat": 43.12403,
+      "lng": -77.61747,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8162-9c80-d81723b17fbe",
+      "name": "Skones Dispensary",
+      "address": "743 Central Park Avenue NY, 10704, Yonkers",
+      "lat": 40.92692,
+      "lng": -73.85822,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8166-9bdf-ca202345bbd8",
+      "name": "Herbwell - Manhattan",
+      "address": "519 Madison Avenue NY, 10022, New York",
+      "lat": 40.75993,
+      "lng": -73.97389,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8167-88a7-f24b6d84b79e",
+      "name": "Beleaf - Calverton",
+      "address": "4462 Middle Country Rd NY, 11933, Calverton",
+      "lat": 40.9285,
+      "lng": -72.78127,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-816a-81e7-fcec266221a4",
+      "name": "RNR Dispensary",
+      "address": "287 Harrison Place NY, 11237, Brooklyn",
+      "lat": 40.70771,
+      "lng": -73.92424,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-816e-9006-df56188be2e5",
+      "name": "Society House",
+      "address": "2441 Flatbush Ave NY, 11234, Brooklyn",
+      "lat": 40.61123,
+      "lng": -73.92364,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-816f-8758-f8aa78c96338",
+      "name": "Oz Dispensary",
+      "address": "956 Jewett Ave NY, 10314, Staten Island",
+      "lat": 40.61309,
+      "lng": -74.13107,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-816f-a09c-cec548709b40",
+      "name": "Domes Dispensary",
+      "address": "268 Forest Hill Drive NY, 12401, Kingston",
+      "lat": 41.94987,
+      "lng": -74.04305,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8172-bf90-ce2217c9fca5",
+      "name": "DISPO",
+      "address": "584 4th Ave NY, 11215, Brooklyn",
+      "lat": 40.66584,
+      "lng": -73.99293,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8176-b65f-c5f26d4b7d3e",
+      "name": "The Herb Cave",
+      "address": "519 State Route 3 NY, 12901, Plattsburgh",
+      "lat": 44.69582,
+      "lng": -73.49852,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8178-8839-fdf50324d380",
+      "name": "Silver Cannabis Company - Albany",
+      "address": "10 Executive Park Dr. NY, 12203, Albany",
+      "lat": 42.68719,
+      "lng": -73.84228,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8179-bb8d-e39fe926998d",
+      "name": "Sky High Club",
+      "address": "129 Avenue C NY, 10009, New York",
+      "lat": 40.7249,
+      "lng": -73.97845,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-817c-98ed-facd3e436968",
+      "name": "Matawana",
+      "address": "533 5th ave NY, 11215, Brooklyn",
+      "lat": 40.66621,
+      "lng": -73.9886,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-817d-b3f1-ecee62f03ddf",
+      "name": "Cannabis Huts - Newburgh",
+      "address": "165 S Plank Rd NY, 12550, Newburgh",
+      "lat": 41.52283,
+      "lng": -74.06414,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-817e-9b30-de56f34bf107",
+      "name": "The Emerald - Manhattan",
+      "address": "1190 Lexington Avenue NY, 10028, New York",
+      "lat": 40.77644,
+      "lng": -73.95799,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8180-8f01-c299eca950ba",
+      "name": "Electric City Cannabis Co LLC",
+      "address": "1354 Lower Broadway NY, 12306, Schenectady",
+      "lat": 42.80364,
+      "lng": -73.95447,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8181-a43d-e0c6b1c9d190",
+      "name": "Gram Cannabis",
+      "address": "360 Graham Avenue NY, 11211, Brooklyn",
+      "lat": 40.71503,
+      "lng": -73.94431,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8183-b677-f54f442b4e35",
+      "name": "The Flowery - Staten Island",
+      "address": "3022 Veterans Rd W NY, 10309, Staten Island",
+      "lat": 40.52839,
+      "lng": -74.23592,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8184-bc94-e9b859e398e3",
+      "name": "Rise - Henrietta",
+      "address": "556 West Jefferson Road NY, 14623, Henrietta",
+      "lat": 43.08763,
+      "lng": -77.63031,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8185-95c7-fae9166f95ba",
+      "name": "BEST BUDZ",
+      "address": "146 VIRGINIA NY, 14201, BUFFALO",
+      "lat": 42.89326,
+      "lng": -78.88559,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-818b-a9b9-ec7be8b4cf07",
+      "name": "Peace, Love, & Bud",
+      "address": "320 South Transit Rd NY, 14094, South Lockport",
+      "lat": 43.15868,
+      "lng": -78.6957,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-818d-92d3-e5376737bf65",
+      "name": "Planet Nugg",
+      "address": "2043 Wellwood Ave Suite 2 NY, 11735, Farmingdale",
+      "lat": 40.75242,
+      "lng": -73.40244,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-818d-a784-e9c178041b20",
+      "name": "Kaya Bliss Dispensary - 3rd Ave",
+      "address": "8412 3rd Ave NY, 11209, Brooklyn",
+      "lat": 40.62472,
+      "lng": -74.03071,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8192-90d6-db3f53e13069",
+      "name": "Hudson Charisma",
+      "address": "496 Broadway NY, 12550, Newburgh",
+      "lat": 41.50161,
+      "lng": -74.03069,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8196-84e9-c7ca83fc0d1e",
+      "name": "Gotham - Bowery",
+      "address": "3 E 3rd St NY, 10003, New York",
+      "lat": 40.72629,
+      "lng": -73.99129,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8196-9f09-c03dce68bf75",
+      "name": "Flower Power Dispensers",
+      "address": "22 W 66th Street NY, 10023, New York",
+      "lat": 40.77272,
+      "lng": -73.97986,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8196-ace0-d160193b28de",
+      "name": "Pure Wellness Dispensary LLC",
+      "address": "360 West Ridge Rd NY, 14615, Rochester",
+      "lat": 43.19986,
+      "lng": -77.63654,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8197-9e1e-dcca6570158c",
+      "name": "Nucleus Dispensary",
+      "address": "1819 2nd Ave. NY, 10128, New York",
+      "lat": 40.78318,
+      "lng": -73.94809,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8198-8924-e4fedea1d707",
+      "name": "New Amsterdam",
+      "address": "245 W 14th Street NY, 10011, New York",
+      "lat": 40.73961,
+      "lng": -74.00143,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-819a-8dcf-d0ffa5406bca",
+      "name": "The Travel Agency - 5th Avenue",
+      "address": "587 5th Ave NY, 10017, New York",
+      "lat": 40.75695,
+      "lng": -73.9781,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-819a-ace7-e3ee3d7b0ec6",
+      "name": "Public Flower",
+      "address": "232 Allen St NY, 14201, Buffalo",
+      "lat": 42.89932,
+      "lng": -78.87876,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-819f-9008-e5be05355af1",
+      "name": "Verdi - Chelsea",
+      "address": "158 W 23rd St. NY, 10011, New York",
+      "lat": 40.74365,
+      "lng": -73.99499,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81a0-a8e7-c407e41b0aeb",
+      "name": "Starlife Dispensary",
+      "address": "1 Hall Ave NY, 10603, White Plains",
+      "lat": 41.0386,
+      "lng": -73.7594,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81a1-823e-da43bf4380aa",
+      "name": "The Emerald - Brooklyn",
+      "address": "85 Suydam St NY, 11221, Brooklyn",
+      "lat": 40.69787,
+      "lng": -73.92935,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81a1-9acc-c98a7de114c9",
+      "name": "Buffalo Dreams",
+      "address": "900 Niagara Falls Blvd NY, 14223, Buffalo",
+      "lat": 42.97855,
+      "lng": -78.82343,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81a1-a533-dd3309f772f9",
+      "name": "Urban Weeds LLC",
+      "address": "31-35 Steinway Street NY, 11103, Astoria",
+      "lat": 40.76025,
+      "lng": -73.91755,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81a3-9ad8-c481ab70c83b",
+      "name": "Conbud - Bronx",
+      "address": "898 Gerard Ave NY, 10452, Bronx",
+      "lat": 40.8282,
+      "lng": -73.92439,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81a9-b33b-e2f7ee15ad1c",
+      "name": "Torches NYC",
+      "address": "12 E 42nd St NY, 10017, New York",
+      "lat": 40.75313,
+      "lng": -73.98039,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81aa-9b69-cfa9fc08f173",
+      "name": "Bronx Joint",
+      "address": "925 Hunts Point Ave NY, 10459, Bronx",
+      "lat": 40.82022,
+      "lng": -73.89122,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ac-b0d9-d1711d5fb0bd",
+      "name": "Elevate",
+      "address": "133 South Terrace Ave NY, 10550, Mt Vernon",
+      "lat": 40.90921,
+      "lng": -73.85015,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ac-bbdf-e5b6c1a380e2",
+      "name": "Silver Cannabis Company - Saratoga Springs",
+      "address": "75 Weibel Ave NY, 12866, Saratoga springs",
+      "lat": 43.09459,
+      "lng": -73.74445,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ae-8f66-d7cb35456534",
+      "name": "Exit 31 Exotics",
+      "address": "255 Genesee Street NY, 13501, Utica",
+      "lat": 43.09934,
+      "lng": -75.235,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ae-a190-ceb8eccd060e",
+      "name": "Jungle Kingdom",
+      "address": "515 Nostrand Ave NY, 11216, Brooklyn",
+      "lat": 40.67977,
+      "lng": -73.94943,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b0-8725-f00d9e0853c6",
+      "name": "Bedford Club",
+      "address": "1102 Bedford Avenue NY, 11216, Brooklyn",
+      "lat": 40.687,
+      "lng": -73.95479,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b1-a4ff-ea8a3d845655",
+      "name": "Flynnstoned - Auburn",
+      "address": "48 E Genesee Street NY, 13021, Auburn",
+      "lat": 42.9327,
+      "lng": -76.55918,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b2-80af-d0af96053672",
+      "name": "Canna Family",
+      "address": "102-15 159th Road NY, 11414, Howard Beach",
+      "lat": 40.65992,
+      "lng": -73.8308,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b2-9e58-e346f0c95720",
+      "name": "Union Chill",
+      "address": "34 W Pulteney St NY, 14830, Corning",
+      "lat": 42.15078,
+      "lng": -77.0627,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b5-94a5-c3906d450047",
+      "name": "Northern Lights Dispensary - Menands",
+      "address": "90 Broadway Spc 8 NY, 12204, Menands",
+      "lat": 42.68286,
+      "lng": -73.73323,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b6-85c0-c7bfe113f6a6",
+      "name": "My Bud 420 Inc.",
+      "address": "1798 E Tremont Avenue NY, 10460, Bronx",
+      "lat": 40.84008,
+      "lng": -73.86753,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b7-9389-f37a2986779b",
+      "name": "Ether",
+      "address": "5100 Genesee Street NY, 14225, Buffalo",
+      "lat": 42.93816,
+      "lng": -78.69766,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b7-a281-d456dd0df7dd",
+      "name": "The People's Joint",
+      "address": "501 State Street NY, 12305, Schenectady",
+      "lat": 42.81224,
+      "lng": -73.94005,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b8-ad5f-c037f58d0041",
+      "name": "NY Cannabis Co - 9th Ave",
+      "address": "743 9th Avenue NY, 10019, New York",
+      "lat": 40.76372,
+      "lng": -73.989,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b9-9a60-c977f1ce1913",
+      "name": "Good Daze Dispensary",
+      "address": "253-06 Northern Blvd NY, 11362, Little Neck",
+      "lat": 40.73693994730393,
+      "lng": -73.97326519124061,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81b9-9d9f-da619a624358",
+      "name": "Jupiter Cafe",
+      "address": "172 N. Union St NY, 14760, Olean",
+      "lat": 42.07954,
+      "lng": -78.42928,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81be-97fa-de3c0cfc1630",
+      "name": "Purple Plains",
+      "address": "32 Westchester Avenue NY, 10576, Pound Ridge",
+      "lat": 41.18741,
+      "lng": -73.54603,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81be-ae28-c4610eb96b83",
+      "name": "Vedaleaf",
+      "address": "2921 Erie Blvd. E Suite 3 NY, 13224, Syracuse",
+      "lat": 43.05605,
+      "lng": -76.08983,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81be-afde-e9411f28b288",
+      "name": "Kushmart - Lancaster",
+      "address": "5211 Broadway St NY, 14086, Lancaster",
+      "lat": 42.90045,
+      "lng": -78.6804,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81bf-adc9-c426c8c6e243",
+      "name": "Green Genius NYC",
+      "address": "214 3rd Ave NY, 10003, New York",
+      "lat": 40.73618,
+      "lng": -73.9853,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81c0-a4d8-c79addd2315c",
+      "name": "Gotham Buds",
+      "address": "248 W 125th St NY, 10027, New York",
+      "lat": 40.80946,
+      "lng": -73.94991,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81c2-a259-f18db90db8d9",
+      "name": "Vaporize Inc.",
+      "address": "12420 Liberty Avenue NY, 11419, South Richmond Hill",
+      "lat": 40.68781,
+      "lng": -73.81933,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81c3-8c87-ec82a77a1adc",
+      "name": "Sparkboro",
+      "address": "704 W 177th St NY, 10033, New York",
+      "lat": 40.84753,
+      "lng": -73.93842,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81c5-ad15-d7fb0454b965",
+      "name": "Hold Up Roll Up",
+      "address": "196 Washington Ave NY, 12210, Albany",
+      "lat": 42.65645,
+      "lng": -73.76331,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ca-9bba-e1cd3acfb6e2",
+      "name": "NYC Bud - Long Island City",
+      "address": "4445 Vernon Blvd NY, 11101, Long Island City",
+      "lat": 40.74927,
+      "lng": -73.95206,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81cc-acb1-d716bb26d419",
+      "name": "Green Witch Dispensary",
+      "address": "1156 Rt 29, Greenwich, NY 12834, Greenwich",
+      "lat": 43.10188,
+      "lng": -73.51597,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81cd-a1ac-c00d1c310aa9",
+      "name": "Rise - East Syracuse",
+      "address": "6701 Manlius Center Road NY, 13057, East Syracuse",
+      "lat": 43.06421,
+      "lng": -76.05662,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ce-8a06-fd588c7b7212",
+      "name": "Highlife Health, LLC",
+      "address": "19 Huguenot Street NY, 10801, New Rochelle",
+      "lat": 40.91429,
+      "lng": -73.77413,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ce-990d-cca8cab068f5",
+      "name": "Goldleaf Cannabiss",
+      "address": "235 Fairview Ave NY, 12534, Hudson",
+      "lat": 42.26111,
+      "lng": -73.76521,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ce-9cb0-d75df9b43c92",
+      "name": "Two Buds Dispensary",
+      "address": "696 East 241st Street NY, 10470, Bronx",
+      "lat": 40.90344,
+      "lng": -73.85077,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ce-b437-cfae28b1e565",
+      "name": "Stellar Cannabis Dispensary",
+      "address": "5440 Route 9W NY, 12550, Newburgh",
+      "lat": 41.56764,
+      "lng": -73.99489,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ce-bea7-e55ce981c8ef",
+      "name": "Alto Dispensary",
+      "address": "110 Chambers Street NY, 10007, New York",
+      "lat": 40.71496,
+      "lng": -74.00827,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81cf-8927-df687aeb5e56",
+      "name": "Flor de Fred",
+      "address": "9605 Liberty Avenue NY, 11417, Ozone Park",
+      "lat": 40.68084,
+      "lng": -73.84295,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81d4-8eb9-df3bbfd56cff",
+      "name": "No Volume Records",
+      "address": "25 N Pearl Street NY, 12207, Albany",
+      "lat": 42.65039,
+      "lng": -73.75201,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81d5-9bf0-eab7d3953e9a",
+      "name": "All Good Cannabis Dispensary",
+      "address": "3405 Avenue H NY, 11211, Brooklyn",
+      "lat": 40.63205,
+      "lng": -73.94335,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81d7-9eb9-e4b8b0610240",
+      "name": "High Dankery",
+      "address": "7815 3rd Ave NY, 11209, Brooklyn",
+      "lat": 40.62884,
+      "lng": -74.02869,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81dc-a167-fbe9f203e1e7",
+      "name": "Flynnstoned - Syracuse",
+      "address": "219 Walton St NY, 13202, Syracuse",
+      "lat": 43.04778,
+      "lng": -76.15642,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81dd-996c-ef6c8060e9c4",
+      "name": "Canna Planet -Wappingers",
+      "address": "1444 Route 9D NY, 12590, Wappinger",
+      "lat": 41.52538,
+      "lng": -73.96728,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81dd-b6f7-f77d6121e60f",
+      "name": "Wild Flower",
+      "address": "41 Genesee Street NY, 13021, Auburn",
+      "lat": 42.93366,
+      "lng": -76.56007,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81e4-9fda-c1675d070fb1",
+      "name": "The Flowery - Queens",
+      "address": "63-54 108th Street NY, 11375, Forest Hills",
+      "lat": 40.73316,
+      "lng": -73.85012,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81e6-abd3-c527702545e9",
+      "name": "New York City Cannabis Exchange Corp.",
+      "address": "24809 Jericho Tpke NY, 11426, Bellerose",
+      "lat": 40.72642,
+      "lng": -73.71796,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81e9-b5f2-d2dc532bca4f",
+      "name": "THE WEED SHOPPE",
+      "address": "4906 Arthur Kill Road NY, 10309, Staten Island",
+      "lat": 40.52252,
+      "lng": -74.23862,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ea-8920-fde726d59a9b",
+      "name": "The OC Dispensary",
+      "address": "769 Franklin Avenue NY, 11238, Brooklyn",
+      "lat": 40.67252,
+      "lng": -73.95715,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ea-a8f5-ed17b7dda02c",
+      "name": "Smokey Paradise",
+      "address": "574 Columbia Turnpike, NY, 12061, East Greenbush",
+      "lat": 42.6008,
+      "lng": -73.71349,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ec-a014-d2a26ef5d949",
+      "name": "Flynnstoned - Brooklyn",
+      "address": "807 Manhattan Ave NY, 11222, Brooklyn",
+      "lat": 40.72796,
+      "lng": -73.95331,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ed-b3d6-eadec8a1a0dd",
+      "name": "Grounded",
+      "address": "3665 Albany Post Road NY, 12601, Poughkeepsie",
+      "lat": 41.7395,
+      "lng": -73.93077,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81ef-aefa-f50cabb6c288",
+      "name": "Hornbill - Manhattan",
+      "address": "224 1st Avenue NY, 10009, New York",
+      "lat": 40.73097,
+      "lng": -73.98252,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81f0-a2f1-e64c70634c85",
+      "name": "Fireleaf Brooklyn",
+      "address": "2102 Ralph Avenue NY, 11234, Brooklyn",
+      "lat": 40.62597,
+      "lng": -73.9183,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81f0-a3b4-d1b8600deb21",
+      "name": "CANNADREAMS",
+      "address": "862 9th Ave NY, 10019, New York",
+      "lat": 40.76707,
+      "lng": -73.98612,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81f0-a480-e0722e0ee45e",
+      "name": "The Cannabis Place",
+      "address": "74-03 Metropolitan Ave NY, 11379, Middle Village",
+      "lat": 40.71303,
+      "lng": -73.87813,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81f0-b1ad-f50f4f1a34ef",
+      "name": "Royal Blend Dispensary",
+      "address": "2223 NY32 NY, 12401, Kingston",
+      "lat": 41.86501,
+      "lng": -74.06455,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81f2-a521-cd29aeafb086",
+      "name": "RR Legacy Dispensary",
+      "address": "12 Hudson Ave NY, 12801, Glen Falls",
+      "lat": 43.30846,
+      "lng": -73.64511,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81f3-83b7-e2af8cb7c0f9",
+      "name": "Quality roots",
+      "address": "330 Tompkins Ave NY, 11216, Brooklyn",
+      "lat": 40.68643,
+      "lng": -73.94467,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81f5-b52b-d87a053c3d2b",
+      "name": "The Daily Green",
+      "address": "719 7th Ave NY, 10036, New York",
+      "lat": 40.75962,
+      "lng": -73.98398,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81f7-948b-c84db9b8903a",
+      "name": "Bayside Supply Inc",
+      "address": "224-15 Union Turnpike NY, 11364, Oakland Gardens",
+      "lat": 40.7361,
+      "lng": -73.74622,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81fa-9ba6-c636bc08fa19",
+      "name": "Green Comfort",
+      "address": "999 S Clinton Ave NY, 14620, Rochester",
+      "lat": 43.13867,
+      "lng": -77.59538,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81fa-b6ba-db8110ad5674",
+      "name": "Cloud 914",
+      "address": "807 Washington Street NY, 10566, Peekskill",
+      "lat": 41.27655,
+      "lng": -73.92689,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81fc-b54e-c32a3eb79e99",
+      "name": "SessCo - East Rochester",
+      "address": "115 Main St NY, 14445, East Rochester",
+      "lat": 43.11407,
+      "lng": -77.48487,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-81fd-9a5e-f2bf2a09f2a5",
+      "name": "Dazed - Syracuse",
+      "address": "135 Marshall Street NY, 13210, Syracuse",
+      "lat": 43.04172,
+      "lng": -76.13576,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "29aa86d9-9998-805c-ba22-f0325d7a8967",
+      "name": "Flower BNK",
+      "address": "1708 Broadway, Schenectady, NY 12306",
+      "lat": 42.7992,
+      "lng": -73.96101,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "2a8a86d9-9998-80fc-90c8-ea0e0745c7e7",
+      "name": "Simply Green",
+      "address": "406c Middle Country Rd, Coram, NY 11727, Coram",
+      "lat": 40.86832,
+      "lng": -73.00192,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "3855e533-f144-4a15-ad52-bb10656509ef",
+      "name": "Ganja Palace Dispensary",
+      "address": "343 N Comrie Ave Johnstown NY 12095, Johnstown",
+      "lat": 43.02405,
+      "lng": -74.36083,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "57830aed-8f0f-41f5-8b6e-dc1d406cc567",
+      "name": "Bliss & Lex",
+      "address": "128 E 86th St New York NY 10028, New York",
+      "lat": 40.77948,
+      "lng": -73.95596,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "809b8d5e-dd9e-44c1-aafb-f70b42997635",
+      "name": "Silver Cannabis Company - Lake George",
+      "address": "1471 US-9 N Unit 3, NY, 12845, Lake George",
+      "lat": 43.3675,
+      "lng": -73.69939,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "96b7e46b-6dd8-4c43-a184-17a39c47510a",
+      "name": "High Frequency",
+      "address": "96 columbia street rensselaer ny 12144, Rensselaer",
+      "lat": 42.63569,
+      "lng": -73.74547,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "c9aec3db-774c-4ea3-a08c-140b784c40f5",
+      "name": "Paradise Cannabis",
+      "address": "1557 Fulton St Brooklyn NY 11216, Brooklyn",
+      "lat": 40.67995,
+      "lng": -73.93902,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "e895f16d-d215-42b3-b9dd-91b66afe124d",
+      "name": "DeMarinos",
+      "address": "110 Jersey Ave, Port Jervis",
+      "lat": 41.3697,
+      "lng": -74.6886,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "ebfb66b9-42eb-4baa-951e-6cd3792d6fe5",
+      "name": "A Cannaful Life",
+      "address": "1547 Arthur Kill Road Staten Island NY 10312, Staten Island",
+      "lat": 40.56299,
+      "lng": -74.19169,
+      "products": [],
+      "lastDelivery": null
+    }
+  ]
+}

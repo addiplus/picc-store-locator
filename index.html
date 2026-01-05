@@ -300,13 +300,11 @@
         // Configuration
         const CONFIG = {
             mapboxToken: 'pk.eyJ1IjoicGljYy1tYXBib3giLCJhIjoiY21qemx0eGZ4NnJ5NzNncTJraWMwdmVoNSJ9.TJ2Ikq3HsuyeqpsD_bM32g',
-            sheetId: '1b6bHT52NrGvqjcul1T30JFpbXtXkVNCE7f5IZ3TDY5Q',
-            sheetName: 'NY ProductDisplay Tracking Mirr',
+            storesJsonUrl: 'stores.json',
             defaultCenter: [-74.0060, 40.7128], // NYC
             defaultZoom: 10,
-            deliveryFilterDays: 60,
-            cacheKey: 'picc_store_locator_cache',
-            cacheExpiry: 6 * 60 * 60 * 1000 // 6 hours
+            cacheKey: 'picc_store_locator_cache_v2',
+            cacheExpiry: 1 * 60 * 60 * 1000 // 1 hour (JSON is already filtered)
         };
 
         // State
@@ -317,15 +315,6 @@
         let selectedProduct = 'all';
         let userLocation = null;
         let geocoder = null;
-
-        // Product column mapping
-        const PRODUCT_COLUMNS = {
-            'State of Mind': 'State of Mind 1G',
-            'O-Yeah': 'O-Yeah 1G',
-            'Sushi Hash': 'Sushi Hash 1G',
-            'SMACK': 'SMACK 1G',
-            'ICHI': 'ICHI- #JUAN 1G'
-        };
 
         // Utility: Calculate distance using Haversine formula
         function calculateDistance(lat1, lon1, lat2, lon2) {
@@ -346,8 +335,8 @@
             return Math.round(miles) + ' mi';
         }
 
-        // Fetch data from Google Sheets
-        async function fetchSheetData() {
+        // Fetch data from stores.json (exported from Notion)
+        async function fetchStoreData() {
             // Check cache first
             const cached = localStorage.getItem(CONFIG.cacheKey);
             if (cached) {
@@ -362,77 +351,20 @@
                 }
             }
 
-            const url = `https://docs.google.com/spreadsheets/d/${CONFIG.sheetId}/gviz/tq?tqx=out:json&sheet=${encodeURIComponent(CONFIG.sheetName)}`;
-
             try {
-                const response = await fetch(url);
-                const text = await response.text();
+                const response = await fetch(CONFIG.storesJsonUrl);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
-                // Parse Google Sheets JSON response (wrapped in callback)
-                const jsonStr = text.match(/google\.visualization\.Query\.setResponse\(([\s\S]*)\);?/);
-                if (!jsonStr) throw new Error('Invalid response format');
-
-                const json = JSON.parse(jsonStr[1]);
-                const rows = json.table.rows;
-                const cols = json.table.cols;
-
-                // Build header map
-                const headers = {};
-                cols.forEach((col, i) => {
-                    if (col.label) headers[col.label] = i;
-                });
-
-                // Parse locations
-                const locations = [];
-                const sixtyDaysAgo = new Date(Date.now() - CONFIG.deliveryFilterDays * 24 * 60 * 60 * 1000);
-
-                rows.forEach((row, idx) => {
-                    const getValue = (colName) => {
-                        const colIdx = headers[colName];
-                        if (colIdx === undefined) return null;
-                        const cell = row.c[colIdx];
-                        return cell ? (cell.v || cell.f || null) : null;
-                    };
-
-                    const name = getValue('Dispensary Name');
-                    const address = getValue('Address');
-                    const lat = parseFloat(getValue('Lat'));
-                    const lng = parseFloat(getValue('Lng'));
-                    const status = getValue('Latest Order Status Above 1$');
-                    const lastDeliveryStr = getValue('Last Order Delivered Date Above $1');
-
-                    // Skip if missing required fields
-                    if (!name || !address || isNaN(lat) || isNaN(lng)) return;
-
-                    // Filter: must be delivered
-                    const validStatuses = ['DELIVERED', 'DELIVERED_WITH_EDITS'];
-                    if (!validStatuses.includes(status)) return;
-
-                    // Filter: must be within 60 days
-                    if (lastDeliveryStr) {
-                        const lastDelivery = new Date(lastDeliveryStr);
-                        if (lastDelivery < sixtyDaysAgo) return;
-                    }
-
-                    // Get products
-                    const products = [];
-                    Object.entries(PRODUCT_COLUMNS).forEach(([productName, colName]) => {
-                        const val = getValue(colName);
-                        if (val && val !== '' && val !== null) {
-                            products.push(productName);
-                        }
-                    });
-
-                    locations.push({
-                        id: idx,
-                        name,
-                        address,
-                        lat,
-                        lng,
-                        products,
-                        lastDelivery: lastDeliveryStr
-                    });
-                });
+                const json = await response.json();
+                const locations = json.stores.map((store, idx) => ({
+                    id: store.id || idx,
+                    name: store.name,
+                    address: store.address,
+                    lat: store.lat,
+                    lng: store.lng,
+                    products: store.products || [],
+                    lastDelivery: store.lastDelivery
+                }));
 
                 // Cache the data
                 localStorage.setItem(CONFIG.cacheKey, JSON.stringify({
@@ -440,9 +372,10 @@
                     timestamp: Date.now()
                 }));
 
+                console.log(`Loaded ${locations.length} stores from Notion export`);
                 return locations;
             } catch (error) {
-                console.error('Error fetching sheet data:', error);
+                console.error('Error fetching store data:', error);
                 return [];
             }
         }
@@ -635,8 +568,7 @@
             initMap();
             setupFilters();
 
-            allLocations = await fetchSheetData();
-            console.log(`Loaded ${allLocations.length} locations`);
+            allLocations = await fetchStoreData();
 
             filterAndRender();
         }

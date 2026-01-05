@@ -1,0 +1,14 @@
+{
+  "name": "picc-store-locator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PICC Store Locator - Find dispensaries carrying PICC products",
+  "scripts": {
+    "export": "node scripts/export-notion-stores.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addiplus/picc-store-locator.git"
+  },
+  "private": true
+}
