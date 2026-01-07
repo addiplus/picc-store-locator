@@ -1,6 +1,6 @@
 {
-  "generated": "2026-01-06T18:03:00.351Z",
-  "count": 172,
+  "generated": "2026-01-07T00:08:09.903Z",
+  "count": 178,
   "stores": [
     {
       "id": "040c80a5-2c68-4bae-8dbd-5eed5652fefa",
@@ -8,6 +8,15 @@
       "address": "2935 Third Ave, South Bronx, NYC, Bronx",
       "lat": 40.8177,
       "lng": -73.91562,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "185136dc-1c27-4a23-aee5-acb270b7120a",
+      "name": "Amped",
+      "address": "8520 Transit Rd, 14221, Buffalo",
+      "lat": 42.99909,
+      "lng": -78.69795,
       "products": [],
       "lastDelivery": null
     },
@@ -1488,6 +1497,15 @@
       "lastDelivery": null
     },
     {
+      "id": "2eb27844-31ad-43b9-8992-f492783f5da8",
+      "name": "Seaweed RBNY",
+      "address": "7313 Beach Cha, Arverne",
+      "lat": 40.59064,
+      "lng": -73.80186,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
       "id": "3855e533-f144-4a15-ad52-bb10656509ef",
       "name": "Ganja Palace Dispensary",
       "address": "343 N Comrie Ave Johnstown NY 12095, Johnstown",
@@ -1502,6 +1520,15 @@
       "address": "128 E 86th St New York NY 10028, New York",
       "lat": 40.77948,
       "lng": -73.95596,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "65f387d2-b234-40bf-b8b2-19cdb7d0e1c2",
+      "name": "Canna Blooms",
+      "address": "2400 N Ocean Ave, Farmingville",
+      "lat": 40.82901,
+      "lng": -73.02047,
       "products": [],
       "lastDelivery": null
     },
@@ -1524,11 +1551,29 @@
       "lastDelivery": null
     },
     {
+      "id": "b4abe739-76e4-4cfe-a28b-20f9edbd155c",
+      "name": "Ganja Express Dispensary",
+      "address": "626 Oriskany Blvd, 13495, Yorkville",
+      "lat": 43.11471,
+      "lng": -75.27916,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
       "id": "c9aec3db-774c-4ea3-a08c-140b784c40f5",
       "name": "Paradise Cannabis",
       "address": "1557 Fulton St Brooklyn NY 11216, Brooklyn",
       "lat": 40.67995,
       "lng": -73.93902,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "dda52bde-5d55-47b1-ad31-5e5569d8e147",
+      "name": "HUB Dispensary",
+      "address": "728 Broadway, Kingston",
+      "lat": 41.93179,
+      "lng": -74.0098,
       "products": [],
       "lastDelivery": null
     },
@@ -1547,6 +1592,15 @@
       "address": "1547 Arthur Kill Road Staten Island NY 10312, Staten Island",
       "lat": 40.56299,
       "lng": -74.19169,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "ef03f118-5e8c-4b4d-a934-ef2d7712fb93",
+      "name": "Flynnstoned - Ridge Rd",
+      "address": "714 W Ridge Rd Rochester NY 14615, Rochester",
+      "lat": 43.20291,
+      "lng": -77.64566,
       "products": [],
       "lastDelivery": null
     }
