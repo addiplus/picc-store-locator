@@ -1,6 +1,6 @@
 {
-  "generated": "2026-01-07T12:02:58.027Z",
-  "count": 178,
+  "generated": "2026-01-07T18:02:22.412Z",
+  "count": 177,
   "stores": [
     {
       "id": "040c80a5-2c68-4bae-8dbd-5eed5652fefa",
@@ -1448,15 +1448,6 @@
       "address": "999 S Clinton Ave NY, 14620, Rochester",
       "lat": 43.13867,
       "lng": -77.59538,
-      "products": [],
-      "lastDelivery": null
-    },
-    {
-      "id": "268a86d9-9998-81fa-b6ba-db8110ad5674",
-      "name": "Cloud 914",
-      "address": "807 Washington Street NY, 10566, Peekskill",
-      "lat": 41.27655,
-      "lng": -73.92689,
       "products": [],
       "lastDelivery": null
     },
