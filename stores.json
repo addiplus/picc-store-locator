@@ -1,6 +1,6 @@
 {
-  "generated": "2026-01-07T18:02:22.412Z",
-  "count": 177,
+  "generated": "2026-01-08T00:05:00.302Z",
+  "count": 179,
   "stores": [
     {
       "id": "040c80a5-2c68-4bae-8dbd-5eed5652fefa",
@@ -588,6 +588,15 @@
       "lastDelivery": null
     },
     {
+      "id": "268a86d9-9998-815e-a95b-e4552711d54d",
+      "name": "Stash Box",
+      "address": "230-04 S Conduit Ave NY, 11413, Springfield Gardens",
+      "lat": 40.66521,
+      "lng": -73.74707,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
       "id": "268a86d9-9998-815f-b5e9-d01186115409",
       "name": "Catskill Mountain High",
       "address": "308 Plaza Road NY, 12401, Kingston",
@@ -809,6 +818,15 @@
       "address": "8412 3rd Ave NY, 11209, Brooklyn",
       "lat": 40.62472,
       "lng": -74.03071,
+      "products": [],
+      "lastDelivery": null
+    },
+    {
+      "id": "268a86d9-9998-8191-b6a4-e9bd2c31963d",
+      "name": "Vereleaf",
+      "address": "383 8th Ave NY, 10001, New York",
+      "lat": 40.74922,
+      "lng": -73.99583,
       "products": [],
       "lastDelivery": null
     },
