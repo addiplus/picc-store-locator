@@ -1,6 +1,6 @@
 {
-  "generated": "2026-01-10T12:02:42.359Z",
-  "count": 179,
+  "generated": "2026-01-10T18:02:04.377Z",
+  "count": 178,
   "stores": [
     {
       "id": "040c80a5-2c68-4bae-8dbd-5eed5652fefa",
@@ -377,15 +377,6 @@
       "address": "2595 Central Park Ave NY, 10710, Yonkers",
       "lat": 40.98541,
       "lng": -73.82638,
-      "products": [],
-      "lastDelivery": null
-    },
-    {
-      "id": "268a86d9-9998-813f-9bf9-dc1fc919f6d5",
-      "name": "Leafology Cannabis Company",
-      "address": "244 Main Street NY, 10601, White Plains",
-      "lat": 41.03311,
-      "lng": -73.76454,
       "products": [],
       "lastDelivery": null
     },
